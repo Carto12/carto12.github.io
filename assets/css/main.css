@@ -71,6 +71,10 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+video {
+	width: 100%;
+	height: auto;
+  }
 
 /* Basic */
 

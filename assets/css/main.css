@@ -71,11 +71,11 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-/*video {
+video {
 	width: 100%;
 	height: auto;
   }
-*/
+  
 /* Basic */
 
 	@-ms-viewport {
